@@ -1,6 +1,6 @@
 {
 	"name": "Gabor's blocklist",
-	"description": "",
+	"description": "private block list",
 	"denied-remote-domains": [
 		"micro.rubiconproject.com",
 		"c.amazon-adsystem.com",
