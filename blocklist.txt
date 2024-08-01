@@ -4,7 +4,7 @@
 	"denied-remote-domains": [
 		"micro.rubiconproject.com",
 		"c.amazon-adsystem.com",
-		"www.googletagservices.com",
+		"googletagservices.com",
 		"pub.doubleverify.com",
 		"www.googleoptimize.com",
 		"ak.sail-horizon.com",
