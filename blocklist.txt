@@ -2,7 +2,7 @@
 	"name": "Gabor's blocklist",
 	"description": "",
 	"denied-remote-domains": [
-		"micro.rubiconproject.com/",
+		"micro.rubiconproject.com",
 		"c.amazon-adsystem.com",
 		"www.googletagservices.com",
 		"pub.doubleverify.com",
