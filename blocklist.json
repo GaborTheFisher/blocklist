@@ -1,0 +1,14 @@
+{
+	"name": "Gabor's blocklist",
+	"description": "",
+	"denied-remote-domains": [
+		"micro.rubiconproject.com/",
+		"c.amazon-adsystem.com",
+		"www.googletagservices.com",
+		"pub.doubleverify.com",
+		"www.googleoptimize.com",
+		"ak.sail-horizon.com",
+		"api.parsely.com",
+		"geolocation.onetrust.com"
+	]
+}
