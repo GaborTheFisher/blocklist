@@ -9,6 +9,9 @@
 		"www.googleoptimize.com",
 		"ak.sail-horizon.com",
 		"api.parsely.com",
-		"geolocation.onetrust.com"
+		"geolocation.onetrust.com",
+		"cdn.onesignal.com",
+		"cdn.onthe.io",
+		"s.skimresources.com"
 	]
 }
